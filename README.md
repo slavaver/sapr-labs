@@ -7,4 +7,4 @@
 ## Дополнительные материалы
 
 1. [Про GIT](material/git.md)
-1. [Полезные ссылки](material/git.md)
+1. [Полезные ссылки](material/links.md)
