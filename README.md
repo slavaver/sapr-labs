@@ -12,4 +12,6 @@
 
 ## Ведомости
 
-1. [Ведомости на гугл диске](https://drive.google.com/drive/folders/1VNtI0n9q_ZMMyy5d9DdU04RAndX9rDle?usp=sharing)
+1. [Ведомости на гугл диске][def]
+
+[def]: https://drive.google.com/drive/folders/1VNtI0n9q_ZMMyy5d9DdU04RAndX9rDle?usp=sharing
