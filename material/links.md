@@ -33,3 +33,7 @@ https://roadmap.sh/frontend
 - Как настроить VS Code [часть 1](https://www.roboleary.net/vscode/2020/08/05/dont-need-extensions.html), [часть 2](https://www.roboleary.net/2021/11/06/vscode-you-dont-need-that-extension2.html)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+## Проблемы Live Server'а
+
+Если Live Server не обновляет страницу, то в VS Code идём в меню `Файл > Настройки > Параметры`. Ищем "**Auto Save**", в выпадающем списке выбираем **onFocusChange**, **onWindowChange** или **afterDelay**.
