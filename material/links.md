@@ -34,4 +34,6 @@ https://roadmap.sh/frontend
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-Если Live Server не обновляет странцу, то в VS Code идём в меню Файл-> Настройки -> Параметры. Ищем "**Auto Save**", в выпадающем списке выбираем **onFocusChange**, **onWindowChange** или **afterDelay**. 
+## Проблемы Live Server'а
+
+Если Live Server не обновляет страницу, то в VS Code идём в меню `Файл > Настройки > Параметры`. Ищем "**Auto Save**", в выпадающем списке выбираем **onFocusChange**, **onWindowChange** или **afterDelay**.
