@@ -14,5 +14,6 @@
 ## Ведомости
 
 1. [Ведомости на гугл диске][def]
+1. [Форма для ссылок на работы](https://forms.gle/4BjG9hQj1h3J9wuh8)
 
 [def]: https://drive.google.com/drive/folders/1VNtI0n9q_ZMMyy5d9DdU04RAndX9rDle?usp=sharing
