@@ -5,6 +5,7 @@
 1. [Вводная](labs/intro.md)
 1. [Разметка HTML](labs/lab1.md)
 1. [CSS. Начало](labs/lab2.md)
+1. [CSS. Блок, поток](labs/lab3.md)
 
 ## Дополнительные материалы
 
