@@ -26,11 +26,11 @@
      - RGBA;
      - HSL;
      - HSLA;
-2. Для выполнения работы необходимо к структуре из второй лабораторной работы добавить папку CSS, в нее добавить normalize.css **или** reseter.css **или** reset.css (на выбор студента) и создать свой файл style.css.
+2. Для выполнения работы необходимо к структуре из второй лабораторной работы добавить папку CSS, в нее добавить один из [нормализаторов](#normaliz-аторы) "нормализаторов" стилей (на выбор студента) и создать свой файл style.css.
 3. Подключить таблицы стилей к index.html.
 4. В style.css:
    - подключить шрифты из макета или визуально похожие из Google Fonts,
-   - создать переменные для основных цветов,
+   - создать переменные для основных цветов `--custom-property: __;` в `:root {}`,
    - задать размер текста (font-size) для в **rem**. Рекомендуется в этом случае для `html` задать font-size в 62.5%, тогда будет проще рассчитывать rem для остального текста.
    - жирность (font-weight),
    - изменить межстрочный интервал (line-height),
@@ -51,10 +51,17 @@
 
 Статическая веб-страница на хостинге, со структурой, которая соответствует требованиям и сохранена в системе контроля версий.
 
+### Normaliz-аторы
+
+От старых к новым:
+
+1. [Reset.css](https://meyerweb.com/eric/tools/css/reset/) - полный сброс стилей;
+1. [Normalize](https://necolas.github.io/normalize.css/)
+1. [Modern normalize](https://github.com/sindresorhus/modern-normalize)
+1. [Reseter](https://github.com/resetercss/reseter.css/blob/main/css/reseter.css)
+
 ### Материалы
 
-- [Normalize](https://necolas.github.io/normalize.css/)
-- [Reseter](https://github.com/resetercss/reseter.css/blob/main/css/reseter.css)
 - [Шрифты, Google Fonts](https://fonts.google.com/)
 - [Google Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
 
@@ -66,3 +73,22 @@
 - [Проверка тегов и свойств на степень ведрения](https://caniuse.com/)
 - [Проверка тегов на возможность вложения](https://caninclude.glitch.me/)
 - [Chrome DevTools](https://habr.com/ru/post/548898/)
+
+### Вопросы для защиты
+
+1. Что такое CSS?
+1. Что такое каскад?
+1. Как рассчитывается специфичность?
+1. Как специфичность влияет на каскад?
+1. Что подразумевает наследование и как его использовать на благо?
+1. Из чего состоят правила?
+1. Какие бывают селекторы?
+1. Для чего нужны normalize.css или reseter.css?
+1. Какие существуют 3 способа подключения стилей?
+1. Как создаются Custom Properties?
+1. Классификация шрифтов.
+1. На что влияет свойство font-weight?
+1. Почему в для свойства font-family лучше указывать несколько шрифтов?
+1. Что меняет свойство color?
+1. Как работает rem?
+1. Чем отличается относительный путь от абсолютного?
