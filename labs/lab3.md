@@ -39,10 +39,6 @@
 - Корректное использование тегов.
 - Отсутствие ошибок на [валидаторе](https://validator.w3.org/) для [html](https://validator.w3.org/) и [css](https://jigsaw.w3.org/css-validator/);
 
-### Результаты выполнения лабораторной работы:
-
-Статическая веб-страница на хостинге, со структурой, которая соответствует требованиям и сохранена в системе контроля версий.
-
 ### Дополнительные источники
 
 - [Getting Started With CSS Layout](https://www.smashingmagazine.com/2018/05/guide-css-layout/)

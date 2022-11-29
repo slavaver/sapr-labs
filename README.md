@@ -6,6 +6,7 @@
 1. [Разметка HTML](labs/lab1.md)
 1. [CSS. Начало](labs/lab2.md)
 1. [CSS. Блок, поток](labs/lab3.md)
+1. [Flexbox, RWD](labs/lab4.md)
 
 ## Дополнительные материалы
 
