@@ -17,12 +17,22 @@
 
 1. Для выполнения работы необходимо в style.css из второй работы:
 
-   1. Для всех элементов задать расчет через box-sizing: border-box;
-   2. Задать размеры для элементов (height, width, max-height, max-width, min-height, min-width);
-   3. Использовать подходящее позиционирование (relative, absolute...);
-   4. При необходимости использовать z-index.
+   1. Для всех элементов задать расчет размеров через `box-sizing: border-box;`. Пример кода ниже. Проверяйте есть ли это в reseter.css или normalize.css;
+   1. Задать размеры для элементов (height, width, max-height, max-width, min-height, min-width);
+   1. Задать для элементов padding и margin;
+   1. Использовать подходящее позиционирование (relative, absolute...) там, где требуется один элемент разместить поверх другого и при необходимости использовать z-index.
 
 1. Зафиксировать результаты работы с помощью системы контроля версий git и отправить репозиторий на Github.
+
+
+```css
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+```
 
 ### Требования к index.html:
 
