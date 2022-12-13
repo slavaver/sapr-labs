@@ -8,6 +8,7 @@
 1. [CSS. Блок, поток](labs/lab3.md)
 1. [Flexbox, RWD](labs/lab4.md)
 1. [img](labs/lab5.md)
+1. [form](labs/lab6.md)
 
 ## Дополнительные материалы
 
