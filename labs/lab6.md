@@ -64,3 +64,15 @@
 - [Learn Forms](https://web.dev/learn/forms/)
 - [Building Forms](https://learn.shayhowe.com/html-css/building-forms/)
 - [Моя демка на CodePen: Форма](https://codepen.io/slavaver/details/rNzyMJV)
+
+### Вопросы для защиты
+
+1. Принципы работы http
+1. Методы get и post
+1. Назовите примеры типов полей формы
+1. Для чего нужны атрибуты name, value, require, disabled
+1. Примеры использования fieldset, legend
+1. В каких состояниях могут находится ссылки/кнопки?
+1. Что такое псевдокласс? Примеры
+1. Что такое псевдоэлемент? Примеры
+1. Какие есть обязательные и необязательные свойства для переходов?
