@@ -27,5 +27,8 @@
 ## Источники
 
 1. [Пример с занятия](https://github.com/slavaver/threejs-example)
+1. [Мануал Three.js](https://threejs.org/manual/#ru/fundamentals)
 1. [Введение в 3D: основы Three.js](https://habr.com/ru/post/494810/)
 1. [Документация Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+1. [Пример разборки с react](https://codesandbox.io/embed/motor-part-explosion-hli8gy)
+1. [Пример использования WebGL](https://ciechanow.ski/archives/)
