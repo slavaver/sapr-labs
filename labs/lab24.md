@@ -32,3 +32,4 @@
 1. [Документация Three.js](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 1. [Пример разборки с react](https://codesandbox.io/embed/motor-part-explosion-hli8gy)
 1. [Пример использования WebGL](https://ciechanow.ski/archives/)
+1. [Discover Three.js](https://discoverthreejs.com/)
