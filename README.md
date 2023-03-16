@@ -8,6 +8,7 @@
 1. [JS: объекты](labs/lab22.md)
 1. [JS: формы](labs/lab23.md)
 1. [Three.js](labs/lab24.md)
+1. [Node.js](labs/lab25.md)
 
 ## Курс "Веб разработка"
 
