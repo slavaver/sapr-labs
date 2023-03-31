@@ -31,8 +31,8 @@
 ## Источники
 
 1. [Официальный сайт Node](https://nodejs.org/en/)
-1. [Введение в Node на английском](https://nodejs.dev/learn)
-1. [Введение в Node на русском](https://nodejsdev.ru/guide/)
+1. [Введение в Node на английском](https://nodejs.dev/en/learn/)
+1. [Введение в Node на русском](https://nodejsdev.ru/guides/)
 1. [Руководство по Node на русском (PDF)](https://ruvds.com/img/other/ee86eb4f-db9f-48d3-8094-c76e14414678.pdf)
 1. [Курс по Node](https://habr.com/ru/post/485294/)
 
