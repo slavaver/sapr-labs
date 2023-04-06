@@ -12,6 +12,7 @@
 1. [Three.js](labs/lab24.md)
 1. [Node.js](labs/lab25.md)
 1. [Express](labs/lab26.md)
+1. [Middleware](labs/lab27.md)
 
 ## Курс "Веб разработка"
 
