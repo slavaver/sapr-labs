@@ -14,6 +14,7 @@
 1. [Express](labs/lab26.md)
 1. [Middleware](labs/lab27.md)
 1. [MongoDB](labs/lab28.md)
+1. [CRUD и обработка ошибок](labs/lab29.md)
 
 ## Курс "Веб разработка"
 
