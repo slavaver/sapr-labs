@@ -35,6 +35,7 @@ POST /comments - для добавления нового комментария
 
 ## Источники
 
+1. [Асинхронное программирование в однопоточных средах JavaScript](https://habr.com/ru/articles/651037/)
 1. [Асинхронность в JS](https://doka.guide/js/async-in-js/)
 1. [Promise](https://doka.guide/js/promise/)
 1. [Промисы, async/await](https://learn.javascript.ru/async)
