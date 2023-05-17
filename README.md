@@ -20,6 +20,7 @@
 1. [MongoDB](labs/lab28.md)
 1. [CRUD и обработка ошибок](labs/lab29.md)
 1. [Swagger](labs/lab210.md)
+1. [Fetch](labs/lab211.md)
 
 ## Курс "Веб разработка"
 
