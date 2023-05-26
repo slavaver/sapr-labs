@@ -21,6 +21,7 @@
 1. [CRUD и обработка ошибок](labs/lab29.md)
 1. [Swagger](labs/lab210.md)
 1. [Fetch](labs/lab211.md)
+1. [Final](labs/lab212.md)
 
 ## Курс "Веб разработка"
 
