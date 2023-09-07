@@ -1,52 +1,24 @@
-# Курсы по веб-разработке для САПР 2022/2023
+# Репозиторий сайта с материалами курсов
 
-## Курс "Разработка веб-приложений и баз данных"
+Сайт построен на базе фреймворка Astro с шаблоном Starlight.
 
-[План курса](material/plan-web-db.md)
+## Ссылка на сайт
 
-### Экзамен
+Сам сайт размещен на [Netlify](https://rad-capybara-bd0e52.netlify.app).
 
-1. [Экзамен](labs/exam.md)
+## 🧞 Команды
 
-### Рубежный контроль
+All commands are run from the root of the project, from a terminal:
 
-1. [Рубежный контроль](labs/rk.md)
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-### Лабораторные работы
+## 👀 Want to learn more?
 
-1. [JS: начало](labs/lab21.md)
-1. [JS: объекты](labs/lab22.md)
-1. [JS: формы](labs/lab23.md)
-1. [Three.js](labs/lab24.md)
-1. [Node.js](labs/lab25.md)
-1. [Express](labs/lab26.md)
-1. [Middleware](labs/lab27.md)
-1. [MongoDB](labs/lab28.md)
-1. [CRUD и обработка ошибок](labs/lab29.md)
-1. [Swagger](labs/lab210.md)
-1. [Fetch](labs/lab211.md)
-1. [Final](labs/lab212.md)
-
-## Курс "Веб разработка"
-
-### Лабораторные работы
-
-1. [Вводная](labs/intro.md)
-1. [Разметка HTML](labs/lab1.md)
-1. [CSS. Начало](labs/lab2.md)
-1. [CSS. Блок, поток](labs/lab3.md)
-1. [Flexbox, RWD](labs/lab4.md)
-1. [img](labs/lab5.md)
-1. [form](labs/lab6.md)
-
-## Дополнительные материалы
-
-1. [Про GIT](material/git.md)
-1. [Полезные ссылки](material/links.md)
-
-## Ведомости
-
-1. [Ведомости на гугл диске][def]
-1. [Форма для ссылок на работы](https://forms.gle/4BjG9hQj1h3J9wuh8)
-
-[def]: https://drive.google.com/drive/folders/1VNtI0n9q_ZMMyy5d9DdU04RAndX9rDle?usp=sharing
+Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
