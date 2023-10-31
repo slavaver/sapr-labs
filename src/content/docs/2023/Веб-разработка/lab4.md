@@ -1,6 +1,6 @@
 ---
 title: Изображения
-description: Лабораторная работа №4
+description: Лабораторная работа №4 - Изображения
 sidebar:
   order: 6
 ---

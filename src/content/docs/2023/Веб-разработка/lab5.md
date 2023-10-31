@@ -1,6 +1,6 @@
 ---
 title: Flexbox
-description: Лабораторная работа №4
+description: Лабораторная работа №5 - Flexbox
 sidebar:
   order: 7
 ---
