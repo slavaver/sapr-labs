@@ -2,7 +2,7 @@
 title: "Node.js сервер"
 description: "Node.js сервер"
 sidebar:
-  order: 4
+  order: 5
 ---
 
 **Цель**: изучить основы работы с Node.
