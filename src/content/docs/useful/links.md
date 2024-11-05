@@ -22,7 +22,7 @@ https://roadmap.sh/frontend
 - [Can I Include](https://caninclude.glitch.me/)
 - [Can I Use](https://caniuse.com/)
 - [Валидатор](https://validator.w3.org/)
-- [Google Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
+- [Google Fonts Helper](https://gwfh.mranftl.com/fonts)
 
 ## Шпаргалки
 
@@ -32,14 +32,8 @@ https://roadmap.sh/frontend
 
 - [VS Code](https://code.visualstudio.com/)
 - [GIT](https://git-scm.com/)
-- Редактор MD [marktext](https://marktext.app/)
 
 ## Расширения для VS Code
 
-- Как настроить VS Code [часть 1](https://www.roboleary.net/vscode/2020/08/05/dont-need-extensions.html), [часть 2](https://www.roboleary.net/2021/11/06/vscode-you-dont-need-that-extension2.html)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-
-## Проблемы Live Server'а
-
-Если Live Server не обновляет страницу, то в VS Code идём в меню `Файл > Настройки > Параметры`. Ищем "**Auto Save**", в выпадающем списке выбираем **onFocusChange**, **onWindowChange** или **afterDelay**.
+- Как настроить VS Code [часть 1](https://www.roboleary.net/vscode/2020/08/05/dont-need-extensions.html), [часть 2](https://www.roboleary.net/2021/11/06/vscode-you-dont-need-that-extension2.html)
