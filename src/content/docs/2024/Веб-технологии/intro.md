@@ -14,8 +14,7 @@ sidebar:
 ## Установка ПО
 
 1. VS Code или любой другой
-   Расширения:
-   - Live Server
+1.  Расширение к VS Code: Live Server
 1. Git
 
 ## Базовые команды
@@ -31,7 +30,7 @@ mkdir
 
 ### Команды git:
 
-``` bash
+```bash
 git clone
 git add
 git commit
@@ -45,15 +44,6 @@ git init
 
 ## Проба пера
 
-### HTML
-
-1. Создать index.html
-   1. header, nav, main, footer, h1, h2, p, a, img, ul или ol, li
-1. Проверить на [валидаторе](https://validator.w3.org/)
-1. Исправить ошибки
-1. Отформатировать код
-1. Сохранить изменения
-
 ### Git
 
 1. Принять задание на [github classroom](https://classroom.github.com/a/_91dNAfO)
@@ -61,6 +51,15 @@ git init
 1. Задать имя и имейл для гита локально:
    - `git config --local user.email "Ваш имейл на github"`
    - `git config --local user.name "Ваше имя"`
+
+### HTML
+
+1. Создать index.html
+1. header, nav, main, footer, h1, h2, p, a, img, ul или ol, li
+1. Проверить на [валидаторе](https://validator.w3.org/)
+1. Исправить ошибки
+1. Отформатировать код
+1. Сохранить изменения
 1. Добавить файлы для коммита `git add index.html`
 1. Создать коммит с `git commit -m "текст вашего коммита"`
 1. Отправить изменения на удаленный репозиторий `git push`
