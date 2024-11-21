@@ -57,7 +57,7 @@ sidebar:
 
 ## Пример решения с волнами
 
-<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="eYqwQYq" data-pen-title="Wave in sections" data-user="slavaver" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="eYqwQYq" data-pen-title="Wave in sections" data-user="slavaver" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/slavaver/pen/eYqwQYq">
   Wave in sections</a> by Vereschagin Vladislav (<a href="https://codepen.io/slavaver">@slavaver</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
