@@ -92,7 +92,7 @@ setTimeout(stopLogger, 5000);
 
 1. Функции обратного вызова (callback function). Идея callback-last / error-first.
 1. Таймеры в JS.
-1. Замыкание и примеры испольлзования.
+1. Замыкание и примеры использования.
 1. Асинхронные функции и синтаксис async/await.
 1. throw и ход исполнения кода.
 1. Блоки try/catch/finally.
