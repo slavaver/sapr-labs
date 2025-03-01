@@ -24,6 +24,7 @@ sidebar:
 1. Установите плагин для правил Node `npm install --save-dev eslint-plugin-n`.
 1. Дополните конфигурацию eslint.config.js строкой `nodePlugin.configs["flat/recommended-module"]`. [Пример для eslint-plugin-n](https://www.npmjs.com/package/eslint-plugin-n).
 1. Дополните конфигурацию eslint.config.js правилами приведенными ниже. Пример организации конфигурационного файла смотрите в [документации ESLint](https://eslint.org/docs/latest/use/getting-started#configuration).
+1. В package.json добавьте ключ "private" со значением true.
 1. Сделайте коммит на ветке main.
 
 ```js
