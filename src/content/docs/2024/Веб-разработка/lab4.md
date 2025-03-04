@@ -69,7 +69,7 @@ function escapeHtml(unsafe) {
 Добавьте в ваш проект файл с кодом ниже. В нем вы можете подставлять в TARGET_URL url для тестирования одного из путей. Протестируйте основные пути с get-запросами, выпишите результаты, оцените на сколько отличается обработка разных путей.
 
 ```js
-const http = require("http");
+import http from 'node:http';
 
 const TOTAL_REQUESTS = 1000;
 const CONCURRENCY = 100;
