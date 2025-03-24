@@ -1,6 +1,6 @@
 ---
 title: "Работа с БД"
-description: "SQLite и CRUD"
+description: "SQLite"
 sidebar:
   order: 7
 ---
