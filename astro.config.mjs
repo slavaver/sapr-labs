@@ -15,8 +15,13 @@ export default defineConfig({
 					autogenerate: { directory: 'useful' },
 				},
 				{
+					label: '2025',
+					autogenerate: { directory: '2025' },
+				},
+				{
 					label: '2024',
 					autogenerate: { directory: '2024' },
+					collapsed: true
 				},
 				{
 					label: '2023',
