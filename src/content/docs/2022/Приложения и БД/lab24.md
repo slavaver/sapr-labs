@@ -20,10 +20,10 @@ sidebar:
 
 ## Схемы
 
-![](/img/light1.jpg)
-![](/img/light2.jpg)
-![](/img/light3.jpg)
-![](/img/light4.jpg)
+![](/sapr-labs/img/light1.jpg)
+![](/sapr-labs/img/light2.jpg)
+![](/sapr-labs/img/light3.jpg)
+![](/sapr-labs/img/light4.jpg)
 
 ## Результаты выполнения лабораторной работы:
 

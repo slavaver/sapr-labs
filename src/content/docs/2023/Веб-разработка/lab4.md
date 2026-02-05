@@ -7,7 +7,7 @@ sidebar:
 
 **Цель:** изучить форматы изображений, получить первоначальные навыки оптимизации изображений, работы с фонами, градиентами и тенями.
 
-![svg meme](/img/svg.jpg)
+![svg meme](/sapr-labs/img/svg.jpg)
 
 ## Порядок выполнения лабораторной работы:
 
@@ -19,7 +19,7 @@ sidebar:
    - png,
    - gif,
    - svg;
-2. изучить сценарии использования форматов изображений; ![how to choose image format](/img/format.jpg)
+2. изучить сценарии использования форматов изображений; ![how to choose image format](/sapr-labs/img/format.jpg)
 3. изучить свойства для замещающего контента (img/video): object-fit и object-position;
 4. Как добавлять фон и использовать свойства из background:
 5. градиенты: linear, radial;
