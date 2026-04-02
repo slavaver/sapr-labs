@@ -1,6 +1,6 @@
 ---
-title: "Создание абстракций"
-description: "Многоуровневая архитектура"
+title: "БД и CRUD"
+description: "Замена JSON-файла на SQLIte и завершение проекта"
 sidebar:
   order: 10
 ---
