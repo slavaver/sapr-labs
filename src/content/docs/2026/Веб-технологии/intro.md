@@ -16,7 +16,7 @@ sidebar:
 
 1. VS Code или любой другой редактор кода.
 1. Расширение к VS Code: Live Server.
-1. Git. [Использование Git](https://gitverse.ru/docs/get-started/git-set-up/)
+1. Git. [Использование Git](https://gitverse.ru/docs/collaborative/git/overview)
 
 ## Базовые команды
 
@@ -50,7 +50,7 @@ git init
 ### Git
 
 1. Принять задание на [Gitverse Lab](https://gitverse.ru/smartclass?invite=d3dabff4-a82f-11f1-a758-f643540b3631).
-1. [Изучите инструкцию по клонированию репозитория](https://gitverse.ru/docs/repositories/clone-a-repository/). Желательно освоить создание [SSH-ключа](https://gitverse.ru/docs/get-started/ssh-set-up/) и использовать его для аутентификации.
+1. [Изучите инструкцию по клонированию репозитория](https://gitverse.ru/docs/collaborative/repositories/guides/repository-workflow/clone-repository). Желательно освоить создание [SSH-ключа](https://gitverse.ru/docs/collaborative/authentification/ssh-keys/) и использовать его для аутентификации.
 1. Выполнив шаги из инструкции, клонируйте ваш репозиторий из принятого задания.
 1. Через терминал откройте папку, которая создалась при клонировании.
 1. Задать имя и имейл для гита локально:
