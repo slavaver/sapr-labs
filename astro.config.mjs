@@ -21,7 +21,6 @@ export default defineConfig({
                 },
                 {
                     label: "2026",
-                    collapsed: true,
                     items: [{ autogenerate: { directory: "2026" } }],
                 },
                 {
